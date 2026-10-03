@@ -1,0 +1,64 @@
+{
+    "hero": [
+        {
+            "nama": "Yu Zhong",
+            "role": "EXP",
+            "nama_ulty": "Black Dragon Form",
+            "asal_benua": "Asia"
+        },
+        {
+            "nama": "Terizla",
+            "role": "EXP",
+            "nama_ulty": "Penalty Zone",
+            "asal_benua": "Eropa"
+        },
+        {
+            "nama": "X.Borg",
+            "role": "EXP",
+            "nama_ulty": "Last Insanity",
+            "asal_benua": "Asia"
+        },
+        {
+            "nama": "Paquito",
+            "role": "EXP",
+            "nama_ulty": "Knockout Strike",
+            "asal_benua": "Amerika"
+        },
+        {
+            "nama": "Badang",
+            "role": "EXP",
+            "nama_ulty": "Fist Crack",
+            "asal_benua": "Asia"
+        },
+        {
+            "nama": "Chou",
+            "role": "EXP",
+            "nama_ulty": "The Way of Dragon",
+            "asal_benua": "Asia"
+        },
+        {
+            "nama": "Dyrroth",
+            "role": "EXP",
+            "nama_ulty": "Abysm Strike",
+            "asal_benua": "Eropa"
+        },
+        {
+            "nama": "Arlott",
+            "role": "EXP",
+            "nama_ulty": "Final Slash",
+            "asal_benua": "Eropa"
+        },
+        {
+            "nama": "Thamuz",
+            "role": "EXP",
+            "nama_ulty": "Cauterant Inferno",
+            "asal_benua": "Eropa"
+        },
+        {
+            "nama": "Lapu-Lapu",
+            "role": "EXP",
+            "nama_ulty": "Brave Stance",
+            "asal_benua": "Asia"
+        }
+    ]
+}
